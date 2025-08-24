@@ -26,7 +26,7 @@ export default function App() {
               Connecting communities to help every dog find their forever home.
             </p>
             <p className="text-sm text-muted-foreground mt-4">
-              © 2024 Stray2Stay. Made with ❤️ for all the good dogs.
+              © 2025 Stray2Stay. Made with ❤️ for all the good dogs.
             </p>
           </div>
         </footer>
